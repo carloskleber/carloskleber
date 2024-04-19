@@ -1,4 +1,4 @@
-- B.Sc. Electric Engineering CEFET-RJ (1999), M.Sc. and D.Sc at UFRJ (2003 and 2012). Researcher at [CEPEL](www.cepel.br/), Brazil. Experience in computational modeling in high voltage transmission lines, electromagnetic fields, grounding, lightning, substation reliability. Scientific software developer.
+- B.Sc. Electric Engineering CEFET-RJ (1999), M.Sc. and D.Sc at UFRJ (2003 and 2012). Researcher at [CEPEL](https://www.cepel.br/), Brazil. Experience in computational modeling in high voltage transmission lines, electromagnetic fields, grounding, lightning, substation reliability. Scientific software developer.
 - Experience with C++, Java and Fortran. Leaving Matlab/ Octave in favor to Python, basically to prototyping. Final products are mainly desktop solutions, ideally I like to pursue web development, but let's solve problems first...
 - More about me:
   - [ResearchGate](https://www.researchgate.net/profile/Carlos-Arruda-3)
